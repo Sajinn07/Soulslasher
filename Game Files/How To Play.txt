@@ -1,3 +1,0 @@
-1) Open A pygame Supported Application Such As Visual Studio Code.
-2) Open main.py
-3) Run the game
